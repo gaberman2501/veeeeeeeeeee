@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085167141755",
+    "project_id": "voajrgroup",
+    "storage_bucket": "voajrgroup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085167141755:android:898fed45a490fec3aa73de",
+        "android_client_info": {
+          "package_name": "com.mycompany.maeassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2yC7XurHR5KQj7K2jChz08TAbxKvoPJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085167141755:android:36d7896d184e47a8aa73de",
+        "android_client_info": {
+          "package_name": "com.mycompany.voajrgroup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2yC7XurHR5KQj7K2jChz08TAbxKvoPJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
